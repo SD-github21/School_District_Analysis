@@ -28,7 +28,7 @@ The following results depict how each of the above seven school district metrics
   
   ![image](https://user-images.githubusercontent.com/85533099/133024475-d9b034f3-8abb-48b5-9de8-71ea237f771b.png)
   
-  - ***Conclusion: No change observed***
+  - ***Conclusion: Slight changes observed in average math and reading scores and percentages between the original (1st image) and updated (3rd image) summaries***
   
 - Individual School Summary 
   - The original summary of each individual school:
@@ -38,8 +38,8 @@ The following results depict how each of the above seven school district metrics
   - The updated summary of each individual school with percentages based on only 10th-12th graders from Thomas High School
   ![image](https://user-images.githubusercontent.com/85533099/133024932-80be3357-f6c9-484e-8bd3-900fa0f6016d.png)
   
-  - ***Conclusion: Slight changes observed in average math and reading scores and percentages between the original and updated summaries, but not significantly different***
-  - ***The middle summary does significantly differ from both the original and updated as these had calculations that included 9th graders in total student counts***
+  - ***Conclusion: Slight changes observed in average math and reading scores and percentages between the original (1st image) and updated (3rd image) summaries***
+  - ***The 2nd summary does significantly differ from both the original and updated as these had calculations that included 9th graders in total student counts***
 
 - Summary of the top 5 highest performing schools & the bottom 5 lowest performing schools
   - Original top 5 highest performing schools summary
@@ -47,7 +47,7 @@ The following results depict how each of the above seven school district metrics
   - The updated top 5 highest performing schools summary
   ![image](https://user-images.githubusercontent.com/85533099/133025134-fc5b1568-4249-42f1-8993-3645f1f82c6e.png)
   
-  - ***Conclusion: Slight changes observed in average math and reading scores and percentages but not significantly different***
+  - ***Conclusion: Slight changes observed in average math and reading scores and percentages***
   - ***No changes observed for bottom 5 lowest performing schools as expected due to no changes in schools from original analysis***
 
 - Summary of average math scores and average reading scores for each grade level from each school
@@ -62,7 +62,7 @@ The following results depict how each of the above seven school district metrics
   ![image](https://user-images.githubusercontent.com/85533099/133025642-a24fd149-e965-4880-bbe2-73e15d8d644d.png)
   ![image](https://user-images.githubusercontent.com/85533099/133025720-123d63eb-6d47-4c70-af19-d4b5aa7d3569.png)
   
-  - ***Conclusion: Changes observed in updated summary where Nan appears in both updated summaries for 9th graders at Thomas High School***
+  - ***Conclusion: Changes observed in updated summary, i.e., Nan appears in both updated summaries for 9th graders at Thomas High School***
   
 - Summary of scores by school spending per student
   - Original scores by school spending per student -- exact numbers and rounded to nearest whole numbers
