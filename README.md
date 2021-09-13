@@ -49,7 +49,6 @@ The following results depict how each of the above seven school district metrics
     - **No changes observed for bottom 5 lowest performing schools as expected due to no changes in schools from original analysis**
 
 - Summary of average math scores and average reading scores for each grade level from each school
-
   - Original math and reading scores by grade
   ![image](https://user-images.githubusercontent.com/85533099/133025593-475bb066-a972-4ee3-a8e6-39018f957d18.png)
   ![image](https://user-images.githubusercontent.com/85533099/133025694-ca639b9f-70d7-4a5f-a90c-750340678352.png)
