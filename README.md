@@ -74,7 +74,7 @@ The following results depict how each of the above seven school district metrics
     ![image](https://user-images.githubusercontent.com/85533099/133026380-9de05751-e8ef-4bd3-a780-a1d79d514f55.png)
     
   - ***Conclusion: Slight changes observed when comparing exact numbers obtained in the "$630-644" bin that includes Thomas High School***
-  - ***No changes observed when numbers were rounded up to whole percentages***
+  - ***No changes observed when numbers were formatted to round up the average scores and whole percentages***
   - ***No changes observed for other bins due to no changes in schools within these bins from original analysis***
 
 - Summary of scores by school size
@@ -89,7 +89,7 @@ The following results depict how each of the above seven school district metrics
   ![image](https://user-images.githubusercontent.com/85533099/133026664-23dad751-13d8-491c-8557-7f7a71bb81c4.png)
  
   - ***Conclusion: Slight changes observed when comparing exact numbers obtained in the "Medium" bin that includes Thomas High School***
-  - ***No changes observed when numbers were rounded up to whole percentages***
+  - ***No changes observed when numbers were formatted to round up the average scores and whole percentages***
   - ***No changes observed for other bins due to no changes in schools within these bins from original analysis***
 
 - Summary of scores by school type
@@ -102,7 +102,7 @@ The following results depict how each of the above seven school district metrics
   ![image](https://user-images.githubusercontent.com/85533099/133026844-c11987d1-21ba-4b20-8262-1320478952dc.png)
   
   - ***Conclusion: Slight changes observed when comparing exact numbers obtained in the "Charter" bin that includes Thomas High School***
-  - ***No changes observed when numbers were rounded up to whole percentages***
+  - ***No changes observed when numbers were formatted to round up the average scores and whole percentages***
   - ***No changes observed for the "District" bin due to no changes in schools within this bin from original analysis***
 
 ## Analysis Summary
@@ -112,8 +112,8 @@ The results of the analysis revealed some changes when comparing exact numbers o
   - This is why it was essential to then conduct a follow-up analysis to adjust the percentages to include a new total student count that eliminated the 9th graders (n = 461),  so that the results were not skewed in a negative direction. Once the calculations were adjusted to include only the 10th - 12th graders, the results revealed slight reductions in the updated District summary from the original District Summary for "Average Math Score" (83.42% to 83.35%), "% Passing Math" (93.27% to 93.19%), "% Passing Reading (97.31% to 97.02%), "% Overall Passing" (90.95% to 90.63%). Only one score, "Average Reading Score", revealed an increase from the original District Summary, i.e., 83.85% to 83.90%.
   - These same changes are apparent when viewing the top 5 highest performing schools because the data that is generated for that summary is the same as the above. However, because the change in numbers was slight, this did not change the outcome for Thomas High School as it still was observed to rank second in the top 5 highest performing schools.
 - The updated summary for reading and math scores by grade demonstrate how the 9th graders from Thomas High School all were replaced with NaNs, whereas the original summary indicates an average math score of 83.6 and an average reading score of 83.7. 
-- For the spending ranges summaries that included exact numbers, only the bin for "$630-644" changed since Thomas High School was grouped into that bin (for example, "Average Math score" reduced from 78.52 to 78.50; "Average Reading Score" increased from 81.62 to 81.64; and "% Passing Reading" reduced from 84.39% to 84.32%). However, when the summaries were formatted to round up to the nearest whole numbers for all scores and percentages, there was no change between the original and the updated summaries. 
-- Similarly for the school size and school type summaries that included exact numbers, only the bins for "Medium (1000-2000)" and "Charter" changed because Thomas High School was grouped into that bin. For example, "% Overall Passing" reduced from 90.62% to 90.56% in the updated school size summary for the "Medium" bin and the "% Overall Passing" changed from 90.43% to 90.39% in the "Charter" school type. However, for the summaries that were formatted to round up to the nearest whole numbers for all scores and percentages, there was no change observed between the original and the updated summaries. 
+- For the spending ranges summaries that included exact numbers, only the bin for "$630-644" changed since Thomas High School was grouped into that bin (for example, "Average Math score" reduced from 78.52 to 78.50; "Average Reading Score" increased from 81.62 to 81.64; and "% Passing Reading" reduced from 84.39% to 84.32%). However, when the summaries were formatted to round up the average scores and whole percentages, there was no change between the original and the updated summaries. 
+- Similarly for the school size and school type summaries that included exact numbers, only the bins for "Medium (1000-2000)" and "Charter" changed because Thomas High School was grouped into that bin. For example, "% Overall Passing" reduced from 90.62% to 90.56% in the updated school size summary for the "Medium" bin and the "% Overall Passing" changed from 90.43% to 90.39% in the "Charter" school type. However, for the summaries that were formatted to round up the average scores and whole percentages, there was no change observed between the original and the updated summaries. 
 
 Therefore the school board can be reassured to know that the challenges brought on by the discovery of academic dishonesty did not affect their overall findings of their students' academic performance by a significant degree and that, for the most part, the original analyses did yield similar data as the updated analyses. 
 
