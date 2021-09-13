@@ -19,14 +19,14 @@ Due to the discovery of evidence pointing to academic dishonesty within the 9th 
 ## Results 
 The following results depict how each of the above seven school district metrics were affected by the changes that were conducted to account for removal of Thomas High School's 9th grade math and reading scores.
 
-- School District Summary 
+- School District Summary
   - The original district summary:
   ![image](https://user-images.githubusercontent.com/85533099/133024401-c24620f0-acec-4ba0-9ec6-7ecaa10d33bf.png)
   
   - The updated district summary where 9th graders' data for math and reading scores were replaced with "NaNs":
   ![image](https://user-images.githubusercontent.com/85533099/133024475-d9b034f3-8abb-48b5-9de8-71ea237f771b.png)
   
-    - **Conclusion: No change observed**
+  - **Conclusion: No change observed**
   
 - Individual School Summary 
   - The original summary of each individual school:
@@ -36,8 +36,8 @@ The following results depict how each of the above seven school district metrics
   - The updated summary of each individual school with percentages based on only 10th-12th graders from Thomas High School
   ![image](https://user-images.githubusercontent.com/85533099/133024932-80be3357-f6c9-484e-8bd3-900fa0f6016d.png)
   
-    - **Conclusion: Slight changes observed in average math and reading scores and percentages between the original and updated summaries, but not significantly different**
-    - **The middle summary does significantly differ from both the original and updated as these had calculations that included 9th graders in total student counts**
+  - **Conclusion: Slight changes observed in average math and reading scores and percentages between the original and updated summaries, but not significantly different**
+  - **The middle summary does significantly differ from both the original and updated as these had calculations that included 9th graders in total student counts**
 
 - Summary of the top 5 highest performing schools & the bottom 5 lowest performing schools
   - Original top 5 highest performing schools summary
@@ -45,8 +45,8 @@ The following results depict how each of the above seven school district metrics
   - The updated top 5 highest performing schools summary
   ![image](https://user-images.githubusercontent.com/85533099/133025134-fc5b1568-4249-42f1-8993-3645f1f82c6e.png)
   
-    - **Conclusion: Slight changes observed in average math and reading scores and percentages but not significantly different**
-    - **No changes observed for bottom 5 lowest performing schools as expected due to no changes in schools from original analysis**
+  - **Conclusion: Slight changes observed in average math and reading scores and percentages but not significantly different**
+  - **No changes observed for bottom 5 lowest performing schools as expected due to no changes in schools from original analysis**
 
 - Summary of average math scores and average reading scores for each grade level from each school
   - Original math and reading scores by grade
@@ -69,6 +69,7 @@ The following results depict how each of the above seven school district metrics
   - Updated scores by school spending per student -- exact numbers and rounded to nearest whole numbers
     ![image](https://user-images.githubusercontent.com/85533099/133026370-244a8ff1-0749-4925-9de1-e05e707e96b7.png)
     ![image](https://user-images.githubusercontent.com/85533099/133026380-9de05751-e8ef-4bd3-a780-a1d79d514f55.png)
+    
   - **Conclusion: Slight changes observed when comparing exact numbers obtained in the "$630-644" bin that includes Thomas High School**
   - **No changes observed for other bins due to no changes in schools within these bins from original analysis**
 
