@@ -28,7 +28,8 @@ The following results depict how each of the above seven school district metrics
   
   ![image](https://user-images.githubusercontent.com/85533099/133024475-d9b034f3-8abb-48b5-9de8-71ea237f771b.png)
   
-  - ***Conclusion: Slight changes observed in average math and reading scores and percentages between the original and updated district summaries***
+  - ***Conclusion: Slight changes observed in average math score and all percentages between the original and updated district summaries***
+  - ***No observed change in average reading score between the original and district summaries***
   
 - Individual School Summary 
   - The original summary of each individual school (1):
@@ -100,6 +101,15 @@ The following results depict how each of the above seven school district metrics
   
   - ***Conclusion: Slight changes observed when comparing exact numbers obtained in the "Charter" bin that includes Thomas High School***
   - ***No changes observed for the "District" bin due to no changes in schools within this bin from original analysis***
+
+## Analysis Summary
+The results of the analysis revealed some changes when comparing exact numbers obtained in the original analysis summaries and the updated analysis summaries. Below are four examples of these changes:
+- The updated School District Summary showed a slight reduction in the "Average Math Score" (79.0 to 78.9), "% Passing Math" (75.0% to 74.8%), "% Passing Reading (85.8% to 85.7%), and "Overall Passing" (65.2% to 64.9%)
+- When 9th graders' math and reading scores were replaced with "NaNs", the "Average Math Score" and "Average Reading Score" slightly reduced from the original summary. However, there was a dramatic reduction in the data showing percentages from the original, i.e., "% Passing Math" (93.27% to 66.91%), "% Passing Reading (97.31% to 69.66%), "% Overall Passing" (90.95% to 65.08%). 
+  - This is why it was essential to then conduct a follow-up analysis to adjust the percentages to include a new total student count that eliminated the 9th graders (n = 461),  so that the results were not skewed in a negative direction. Once the calculations were adjusted to include only the 10th - 12th graders, the results revealed slight reductions in the updated summary for "Average Math Score" (83.42% to 83.35%), "% Passing Math" (93.27% to 93.19%), "% Passing Reading (97.31% to 97.02%), "% Overall Passing" (90.95% to 90.63%). Only one score, "Average Reading Score", revealed an increase from the original District Summary, i.e., 83.85% to 83.90%.
+-   
+- 
+
 
 
 
