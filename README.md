@@ -12,6 +12,7 @@ The initial purpose of the school district analysis was to assist in providing i
 - Summary of scores by school size
 - Summary of scores by school type
 
+## Overview of Challenge
 
 ## Resources
 - Data Source: election_results.csv
