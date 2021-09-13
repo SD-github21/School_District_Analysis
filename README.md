@@ -47,8 +47,8 @@ The following results depict how each of the above seven school district metrics
   - The updated top 5 highest performing schools summary
   ![image](https://user-images.githubusercontent.com/85533099/133025134-fc5b1568-4249-42f1-8993-3645f1f82c6e.png)
   
-  - **Conclusion: Slight changes observed in average math and reading scores and percentages but not significantly different**
-  - **No changes observed for bottom 5 lowest performing schools as expected due to no changes in schools from original analysis**
+  - ***Conclusion: Slight changes observed in average math and reading scores and percentages but not significantly different***
+  - ***No changes observed for bottom 5 lowest performing schools as expected due to no changes in schools from original analysis***
 
 - Summary of average math scores and average reading scores for each grade level from each school
   - Original math and reading scores by grade
@@ -72,8 +72,8 @@ The following results depict how each of the above seven school district metrics
     ![image](https://user-images.githubusercontent.com/85533099/133026370-244a8ff1-0749-4925-9de1-e05e707e96b7.png)
     ![image](https://user-images.githubusercontent.com/85533099/133026380-9de05751-e8ef-4bd3-a780-a1d79d514f55.png)
     
-  - **Conclusion: Slight changes observed when comparing exact numbers obtained in the "$630-644" bin that includes Thomas High School**
-  - **No changes observed for other bins due to no changes in schools within these bins from original analysis**
+  - ***Conclusion: Slight changes observed when comparing exact numbers obtained in the "$630-644" bin that includes Thomas High School***
+  - ***No changes observed for other bins due to no changes in schools within these bins from original analysis***
 
 - Summary of scores by school size
   - Original scores by school size -- exact numbers and rounded to nearest whole numbers
@@ -86,8 +86,8 @@ The following results depict how each of the above seven school district metrics
   ![image](https://user-images.githubusercontent.com/85533099/133026657-2b9ac895-813f-479b-91f8-5af9af18e9c0.png)
   ![image](https://user-images.githubusercontent.com/85533099/133026664-23dad751-13d8-491c-8557-7f7a71bb81c4.png)
  
-  - *Conclusion: Slight changes observed when comparing exact numbers obtained in the "Medium" bin that includes Thomas High School*
-  - *No changes observed for other bins due to no changes in schools within these bins from original analysis*
+  - ***Conclusion: Slight changes observed when comparing exact numbers obtained in the "Medium" bin that includes Thomas High School***
+  - ***No changes observed for other bins due to no changes in schools within these bins from original analysis***
 
 - Summary of scores by school type
   - Original scores by school type -- exact numbers and rounded to nearest whole numbers
@@ -98,8 +98,8 @@ The following results depict how each of the above seven school district metrics
   ![image](https://user-images.githubusercontent.com/85533099/133026837-a777ccb7-949f-4eab-8458-5c38800e9dfa.png)
   ![image](https://user-images.githubusercontent.com/85533099/133026844-c11987d1-21ba-4b20-8262-1320478952dc.png)
   
-  - **Conclusion: Slight changes observed when comparing exact numbers obtained in the "Charter" bin that includes Thomas High School**
-  - **No changes observed for the "District" bin due to no changes in schools within this bin from original analysis**
+  - ***Conclusion: Slight changes observed when comparing exact numbers obtained in the "Charter" bin that includes Thomas High School***
+  - ***No changes observed for the "District" bin due to no changes in schools within this bin from original analysis***
 
 
 
