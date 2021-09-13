@@ -12,7 +12,8 @@ The initial purpose of the school district analysis was to assist in providing i
 - Summary of scores by school size
 - Summary of scores by school type
 
-## Overview of Challenge
+Due to the discovery of evidence pointing to academic dishonesty within the 9th grade class of Thomas High School, a new analysis plan was formulated to assist the school board by (1) replacing Thomas High School's 9th grade math and scores with "NaNs" and (2) repeating the above school district analysis to provide an updated version of the same key deliverables. 
+
 
 ## Resources
 - Data Source: election_results.csv
