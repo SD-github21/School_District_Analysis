@@ -35,7 +35,8 @@ The following results depict how each of the above seven school district metrics
   - The updated summary of each individual school with percentages based on only 10th-12th graders from Thomas High School
   ![image](https://user-images.githubusercontent.com/85533099/133024932-80be3357-f6c9-484e-8bd3-900fa0f6016d.png)
   
-    - **Conclusion: Slight changes observed in average math and reading scores and percentages, but not significantly different**
+    - **Conclusion: Slight changes observed in average math and reading scores and percentages between the original and updated summaries, but not significantly different**
+    - **The middle summary does significantly differ from both the original and updated as these had calculations that included 9th graders in total student counts**
 
 - Summary of the top 5 highest performing schools & the bottom 5 lowest performing schools
   - Original top 5 highest performing schools summary
@@ -47,13 +48,17 @@ The following results depict how each of the above seven school district metrics
     - **No changes observed for bottom 5 lowest performing schools as expected due to no changes in schools from original analysis**
 
 - Summary of average math scores and average reading scores for each grade level from each school
+
   - Original math and reading scores by grade
   ![image](https://user-images.githubusercontent.com/85533099/133025593-475bb066-a972-4ee3-a8e6-39018f957d18.png)
   ![image](https://user-images.githubusercontent.com/85533099/133025694-ca639b9f-70d7-4a5f-a90c-750340678352.png)
+  
   - Updated math and reading scores by grade
+  
   ![image](https://user-images.githubusercontent.com/85533099/133025642-a24fd149-e965-4880-bbe2-73e15d8d644d.png)
   ![image](https://user-images.githubusercontent.com/85533099/133025720-123d63eb-6d47-4c70-af19-d4b5aa7d3569.png)
-    - **Conclusion: Changes observed in updated summary where Nan appears in both updated summaries for 9th graders at Thomas High School**
+  
+  - **Conclusion: Changes observed in updated summary where Nan appears in both updated summaries for 9th graders at Thomas High School**
   
 - Summary of scores by school spending per student
   - Original scores by school spending per student -- exact numbers and rounded to nearest whole numbers
@@ -67,11 +72,15 @@ The following results depict how each of the above seven school district metrics
 
 - Summary of scores by school size
   - Original scores by school size -- exact numbers and rounded to nearest whole numbers
+  
   ![image](https://user-images.githubusercontent.com/85533099/133026629-56eea832-b9f0-4910-8b59-2bc29a650ca5.png)
   ![image](https://user-images.githubusercontent.com/85533099/133026634-0b47aa7d-dd4a-4347-be08-ff7a93506eb5.png)
+  
   - Updated scores by school size -- exact numbers and rounded to nearest whole numbers
+  
   ![image](https://user-images.githubusercontent.com/85533099/133026657-2b9ac895-813f-479b-91f8-5af9af18e9c0.png)
   ![image](https://user-images.githubusercontent.com/85533099/133026664-23dad751-13d8-491c-8557-7f7a71bb81c4.png)
+ 
   - **Conclusion: Slight changes observed when comparing exact numbers obtained in the "Medium" bin that includes Thomas High School**
   - **No changes observed for other bins due to no changes in schools within these bins from original analysis**
 
@@ -79,9 +88,11 @@ The following results depict how each of the above seven school district metrics
   - Original scores by school type -- exact numbers and rounded to nearest whole numbers
   ![image](https://user-images.githubusercontent.com/85533099/133026801-d6dcfb4e-23ba-43a0-97f1-2601a2b74e01.png)
   ![image](https://user-images.githubusercontent.com/85533099/133026808-fdc73cd8-50d4-4fcd-aa6d-ebe7ed0ef599.png)
+  
   - Updated scores by school type -- exact numbers and rounded to nearest whole numbers
   ![image](https://user-images.githubusercontent.com/85533099/133026837-a777ccb7-949f-4eab-8458-5c38800e9dfa.png)
   ![image](https://user-images.githubusercontent.com/85533099/133026844-c11987d1-21ba-4b20-8262-1320478952dc.png)
+  
   - **Conclusion: Slight changes observed when comparing exact numbers obtained in the "Charter" bin that includes Thomas High School**
   - **No changes observed for the "District" bin due to no changes in schools within this bin from original analysis**
 
