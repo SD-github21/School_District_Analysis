@@ -40,7 +40,7 @@ The following results depict how each of the above seven school district metrics
   ![image](https://user-images.githubusercontent.com/85533099/133024932-80be3357-f6c9-484e-8bd3-900fa0f6016d.png)
   
   - ***Conclusion: Slight changes observed in average math and reading scores and percentages between the original (1st image) and updated (3rd image) summaries***
-  - ***The 2nd summary does significantly differ from both the original and updated as these had calculations that included 9th graders in total student counts***
+  - ***The 2nd summary does significantly differ from both the original (1st image) and updated (3rd image) summaries as the 2nd summary had calculations that included 9th graders in total student counts***
 
 - Summary of the top 5 highest performing schools & the bottom 5 lowest performing schools
   - Original top 5 highest performing schools summary
