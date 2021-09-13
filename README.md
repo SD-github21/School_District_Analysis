@@ -31,11 +31,11 @@ The following results depict how each of the above seven school district metrics
   - ***Conclusion: Slight changes observed in average math and reading scores and percentages between the original and updated district summaries***
   
 - Individual School Summary 
-  - The original summary of each individual school (Image 1):
+  - The original summary of each individual school (1):
   ![image](https://user-images.githubusercontent.com/85533099/133024700-eafdc3a2-730b-4599-b641-372c9320e725.png)
-  - The summary of each individual school with 9th graders' scores replaced with "NaNs" (Image 2):
+  - The summary of each individual school with 9th graders' scores replaced with "NaNs" (2):
   ![image](https://user-images.githubusercontent.com/85533099/133024807-0d842abb-0908-4b4b-a461-93ccecd63eac.png)
-  - The updated summary of each individual school with percentages based on only 10th-12th graders from Thomas High School (Image 3):
+  - The updated summary of each individual school with percentages based on only 10th-12th graders from Thomas High School (3):
   ![image](https://user-images.githubusercontent.com/85533099/133024932-80be3357-f6c9-484e-8bd3-900fa0f6016d.png)
   
   - ***Conclusion: Slight changes observed in average math and reading scores and percentages between the original (1st image) and updated (3rd image) summaries***
