@@ -50,9 +50,11 @@ The following results depict how each of the above seven school district metrics
 
 - Summary of average math scores and average reading scores for each grade level from each school
   - Original math and reading scores by grade
-  ![image](https://user-images.githubusercontent.com/85533099/133025593-475bb066-a972-4ee3-a8e6-39018f957d18.png)
-  ![image](https://user-images.githubusercontent.com/85533099/133025694-ca639b9f-70d7-4a5f-a90c-750340678352.png)
   
+  ![image](https://user-images.githubusercontent.com/85533099/133027489-7ba48ac5-c1bb-46a3-ae22-5c8984b93623.png)
+  ![image](https://user-images.githubusercontent.com/85533099/133027506-bf015622-0eae-4e0b-8921-b2eec9126aa2.png)
+
+
   - Updated math and reading scores by grade
   
   ![image](https://user-images.githubusercontent.com/85533099/133025642-a24fd149-e965-4880-bbe2-73e15d8d644d.png)
