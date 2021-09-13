@@ -74,6 +74,7 @@ The following results depict how each of the above seven school district metrics
     ![image](https://user-images.githubusercontent.com/85533099/133026380-9de05751-e8ef-4bd3-a780-a1d79d514f55.png)
     
   - ***Conclusion: Slight changes observed when comparing exact numbers obtained in the "$630-644" bin that includes Thomas High School***
+  - ***No changes observed when numbers were rounded up to whole percentages***
   - ***No changes observed for other bins due to no changes in schools within these bins from original analysis***
 
 - Summary of scores by school size
@@ -88,6 +89,7 @@ The following results depict how each of the above seven school district metrics
   ![image](https://user-images.githubusercontent.com/85533099/133026664-23dad751-13d8-491c-8557-7f7a71bb81c4.png)
  
   - ***Conclusion: Slight changes observed when comparing exact numbers obtained in the "Medium" bin that includes Thomas High School***
+  - ***No changes observed when numbers were rounded up to whole percentages***
   - ***No changes observed for other bins due to no changes in schools within these bins from original analysis***
 
 - Summary of scores by school type
@@ -100,6 +102,7 @@ The following results depict how each of the above seven school district metrics
   ![image](https://user-images.githubusercontent.com/85533099/133026844-c11987d1-21ba-4b20-8262-1320478952dc.png)
   
   - ***Conclusion: Slight changes observed when comparing exact numbers obtained in the "Charter" bin that includes Thomas High School***
+  - ***No changes observed when numbers were rounded up to whole percentages***
   - ***No changes observed for the "District" bin due to no changes in schools within this bin from original analysis***
 
 ## Analysis Summary
