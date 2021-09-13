@@ -22,6 +22,7 @@ The following results depict how each of the above seven school district metrics
 - School District Summary 
   - The original district summary:
   ![image](https://user-images.githubusercontent.com/85533099/133024401-c24620f0-acec-4ba0-9ec6-7ecaa10d33bf.png)
+  
   - The updated district summary where 9th graders' data for math and reading scores were replaced with "NaNs":
   ![image](https://user-images.githubusercontent.com/85533099/133024475-d9b034f3-8abb-48b5-9de8-71ea237f771b.png)
   
