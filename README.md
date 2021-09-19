@@ -1,4 +1,4 @@
-# School_District_Analysis
+# School District Analysis
 
 ## Overview of School District Analysis
 The initial purpose of the school district analysis was to assist in providing important summary data about the performance of schools within a school district based upon results of standardized testing scores, i.e., math and reading scores. This analysis was completed and included several important key deliverables:
